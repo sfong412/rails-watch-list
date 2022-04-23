@@ -1,2 +1,14 @@
 // Import page-specific CSS files here.
 @import "home";
+
+.banner {
+  margin: 0 0 24px 0;
+}
+
+.row-list-header {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  margin: 0 0 12px 0;
+}
